@@ -2,7 +2,7 @@ onload = () => {
   document.body.classList.remove("container");
   // Crear un elemento de texto
   let mensaje = document.createElement("p");
-  mensaje.textContent = "Te extraño muchísimo mi vanesita 💛";
+  mensaje.textContent = "Te amare por el resto de mi vida mi vane 💛";
   mensaje.style.position = "absolute";
   mensaje.style.top = "50%";
   mensaje.style.left = "50%";
